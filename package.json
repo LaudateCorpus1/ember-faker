@@ -55,7 +55,7 @@
     "defaultBlueprint": "ember-faker"
   },
   "dependencies": {
-    "ember-cli-babel": "^6.4.1",
+    "ember-cli-babel": "^6.18.0",
     "ember-cli-node-assets": "^0.2.2",
     "faker": "CrowdStrike/faker.js"
   }
